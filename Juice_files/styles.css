@@ -12,7 +12,7 @@ a:hover{color:#e9463c}
 #title .info{text-align:left;margin-top:0;margin-bottom:.3em}
 #title h1{text-align:center;border-top:3px solid #e9463c;border-bottom:3px solid #e9463c;padding:1em 0;text-transform:uppercase;}
 #title h1 span{display:inline-block;margin}
-#title h1 .article{letter-spacing:285px;margin-right:-285px}
+#title h1 .article{letter-spacing:115px;margin-right:-115px}
 #title h1 .adj{letter-spacing:39px;margin-right:-39px;font-size:50%;color:#e9463c}
 #title h1 .noun{font-size:570%;line-height:100%}
 #title .subtitle{text-align:center;font-size:50%;margin-top:1em}
