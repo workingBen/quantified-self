@@ -7,6 +7,9 @@ a:hover{color:#e9463c}
 .impress-supported .step{opacity:.05}
 .indented_list{ padding-left: 30px; padding-top: 30px; }
 .indented{ padding-left: 30px; }
+.slideshow {
+background: url(Juice_files/ui/slideshow.gif) no-repeat;
+}
 .step{position:relative;width:900px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;font-size:48px;line-height:1.5;-webkit-transition:opacity .5s;-moz-transition:opacity .5s;-ms-transition:opacity .5s;-o-transition:opacity .5s;transition:opacity .5s;}
 .step.active{opacity:1 !important}
 .step > h2{font-size:60%;text-align:right;border-right:6px solid #555;margin-bottom:2em;padding-right:1em;text-transform:capitalize}
